@@ -1,109 +1,103 @@
 ![logo](https://github.com/Saurabh620/Saurabh620/blob/main/back1.png)
 
 <h1 align="center">Hi 👋, I'm Saurabh Rawat</h1>
-<h3 align="center">Product Manager | Building Data-Driven & User-Centric Digital Products</h3>
+<h3 align="center">Product Manager | Building Scalable & Data-Driven Digital Products</h3>
 
 <img align="right" alt="product management" width="270" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saurabh620&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh620" />
-</p>
 
 ---
 
 ## 🚀 About Me
 
-💡 Product-focused professional with 2+ years of experience in building and improving digital platforms.  
-📊 Strong in translating business goals into product strategy, roadmaps, and measurable outcomes.  
-🤝 Experienced in collaborating with engineering, design, QA, and stakeholders in Agile environments.  
-📈 Passionate about solving real user problems using data and structured execution.
+💡 Product-focused professional with 2+ years of experience in Agile environments.  
+📊 Strong in product strategy, roadmap planning, and data-backed decision making.  
+🤝 Skilled at bridging Business, Engineering & Design teams.  
+🎯 Passionate about solving real user problems and delivering measurable impact.
 
 ---
 
 ## 🧭 What I Do
 
-- 📌 Define product vision & roadmap aligned with business goals  
-- 📝 Convert ideas into PRDs, BRDs & actionable user stories  
-- 📊 Use SQL & analytics to validate hypotheses and measure impact  
-- 🎯 Prioritize features using business value, effort & user feedback  
-- 🧪 Lead UAT & release cycles ensuring high product quality  
-- 🤝 Bridge Business ↔ Tech ↔ Users  
+- 📌 Define Product Vision & Roadmap  
+- 📝 Write PRDs, BRDs & User Stories  
+- 📊 Use SQL & Analytics to validate features  
+- 🎯 Prioritize Backlog based on Business Impact  
+- 🧪 Lead UAT & Release Cycles  
+- 🤝 Drive Cross-functional Collaboration  
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Business Analyst → Product-Focused Role  
-**TRIAD Technologies Pvt Ltd | Aug 2024 – Present**
+### 🏢 Business Analyst | TRIAD Technologies Pvt Ltd (Aug 2024 – Present)
 
-- Gathered requirements & translated into technical specifications and wireframes  
+- Translated business requirements into technical specifications & wireframes  
 - Led UAT, sprint planning & Agile ceremonies  
-- Designed dashboards & reporting solutions  
-- Managed bug triaging & coordinated feature rollouts  
-- Used SQL to validate features & support decision-making  
+- Designed dashboards, reports & workflow solutions  
+- Managed bug triaging & feature rollouts  
+- Used SQL for backend validation & analysis  
 
-### 📱 Associate Product Manager  
-**Bookchor | May 2024 – Aug 2024**
+### 📱 Associate Product Manager | Bookchor (May 2024 – Aug 2024)
 
-- Defined product roadmap in collaboration with cross-functional teams  
-- Prioritized backlog based on user feedback & business KPIs  
-- Supported UI/UX enhancements for mobile app  
-- Oversaw user testing & feature releases  
+- Defined product roadmap with engineering & design teams  
+- Prioritized backlog using market feedback & KPIs  
+- Supported UI/UX improvements & feature launches  
+- Coordinated user testing & release cycles  
 
 ---
 
-## 🛠 Highlight Projects
+## 🚀 Highlight Projects
 
 ### 📍 Attendika – Smart Attendance & Meter Compliance Platform
 
-- Led end-to-end product design for GPS-based attendance system  
-- Designed 3-tier approval hierarchy (L1–L3)  
+- Designed GPS-based attendance system  
+- Built 3-tier approval hierarchy (L1–L3)  
 - Implemented role-based access control  
-- Structured meter-reading workflow with odometer validation  
-- Delivered solution serving multi-location organizations  
+- Structured meter-reading validation workflow  
 
 ### 🎨 AkzoNobel Dulux Dealer Portal
 
-- Created BRDs & wireframes for portal redesign  
-- Defined acceptance criteria & executed UAT  
+- Created BRDs & wireframes  
+- Defined acceptance criteria & led UAT  
 - Validated backend data using SQL  
-- Improved request tracking workflow efficiency  
+- Improved dealer request processing efficiency  
 
-### 📦 Addes by Amazon (Product Ops + Data)
+### 📦 Addes by Amazon (Product Ops)
 
 - Maintained operational databases  
-- Executed SQL queries to support mobile app operations  
-- Suggested workflow improvements to reduce update cycle time  
+- Optimized SQL workflows  
+- Improved product update cycle efficiency  
 
 ---
 
-## 📊 Product & Technical Toolkit
+## 🛠 Product & Business Analysis Tools
 
-### 🧠 Product Skills
-- Product Roadmapping
-- Backlog Prioritization
-- Stakeholder Management
-- User Story Writing
-- PRD / BRD Documentation
-- Agile & Scrum
-- UAT & Release Management
+<p align="left">
 
-### 📈 Data & Tech
-- SQL (MySQL)
-- Data Analysis
-- Power BI (Basic)
-- Tableau (Basic)
-- Figma & Balsamiq
-- Functional & Regression Testing
+<!-- Product Tools -->
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="45" height="45"/>
+
+</p>
 
 ---
 
-## 🎯 Currently Focused On
+## 🧠 Core Competencies
 
-- Product Strategy & Growth Metrics  
-- KPI & OKR Alignment  
-- Data-Driven Product Decisions  
-- Enhancing User Experience  
+- Product Roadmapping  
+- Stakeholder Management  
+- Agile & Scrum  
+- UAT & Release Management  
+- Requirement Gathering (BRD / FRD)  
+- Data Analysis (SQL)  
+- KPI & Metrics Tracking  
+- Wireframing & Workflow Design  
 
 ---
 
@@ -114,17 +108,3 @@
 📍 New Delhi, India  
 
 ---
-
-## 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh620&show_icons=true&locale=en&layout=compact" alt="saurabh620" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh620&show_icons=true&locale=en" alt="saurabh620" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh620&" alt="saurabh620" />
-</p>

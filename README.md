@@ -1,4 +1,4 @@
-![logo](https://github.com/Saurabh620/Saurabh620/blob/main/back1.png)
+![logo](https://github.com/Saurabh620/Saurabh620/blob/main/back7.png)
 
 <h1 align="center">Hi 👋, I'm Saurabh Rawat</h1>
 <h3 align="center">Product Manager | Building Scalable & Data-Driven Digital Products</h3>

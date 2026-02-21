@@ -20,10 +20,10 @@
 
 - 📌 Define Product Vision & Roadmap  
 - 📝 Write PRDs, BRDs & User Stories  
-- 📊 Use SQL & Analytics to validate features  
-- 🎯 Prioritize Backlog based on Business Impact  
-- 🧪 Lead UAT & Release Cycles  
-- 🤝 Drive Cross-functional Collaboration  
+- 📊 Use SQL & analytics to validate features  
+- 🎯 Prioritize backlog based on business impact  
+- 🧪 Lead UAT & release cycles  
+- 🤝 Drive cross-functional collaboration  
 
 ---
 
@@ -74,15 +74,29 @@
 
 <p align="left">
 
-<!-- Product Tools -->
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="45" height="45"/>
+<!-- Jira -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45"/>
+
+<!-- Confluence -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="45" height="45"/>
+
+<!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+
+<!-- Notion -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45" height="45"/>
+
+<!-- Trello -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="45" height="45"/>
+
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+
+<!-- Power BI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/>
+
+<!-- Tableau -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="45" height="45"/>
 
 </p>
 
